@@ -1,0 +1,13 @@
+
+7
+java:S2129	"!Remove this "Boolean" constructor(ß×¾×
+<
+java:S2129
+"!Remove this "Boolean" constructor(¯®ÑØûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¥ùÖùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘š‘Þ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áØ™…ÿÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(š•úúÿÿÿÿ
+i
+java:S1192"NDefine a constant instead of duplicating this literal "xå¸ƒå°”å€¼ = " 3 times.(ã¥ùÖùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É¶•õùÿÿÿÿ
